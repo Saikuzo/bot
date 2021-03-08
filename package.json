@@ -1,0 +1,8 @@
+{
+    "name": "sniping",
+    "author": "Alex",
+    "scripts": {
+        "start": "node market_sniper.js"
+
+    }
+}

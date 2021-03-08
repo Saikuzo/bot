@@ -1,0 +1,106 @@
+{
+    "weapons": [
+        {
+            "name": "kevlar",
+            "sanitized_name": "Kevlar",
+            "price": 37500
+        },
+        {
+            "name": "deluxo",
+            "sanitized_name": "Deluxo",
+            "price": 4000000
+        },
+		{
+            "name": "xls2",
+            "sanitized_name": "XLS (Armored)",
+            "price": 65000
+        },
+		{
+            "name": "schafter6",
+            "sanitized_name": "Schafter LWB (Armored)",
+            "price": 65000
+        },
+		{
+            "name": "schafter5",
+            "sanitized_name": "Schafter LWB (Armored)",
+            "price": 65000
+        },
+		{
+            "name": "cognoscenti2",
+            "sanitized_name": "Cognoscenti (Armored)",
+            "price": 45000
+        },
+		{
+            "name": "weapon_combatmg",
+            "sanitized_name": "M60",
+            "price": 55000
+        },
+		{
+            "name": "weapon_assaultrifle_mk2",
+            "sanitized_name": "Assault Rifle Mk II",
+            "price": 50000
+        },
+		{
+            "name": "weapon_carbinerifle_mk2",
+            "sanitized_name": "Carbine Rifle Mk II",
+            "price": 25000
+        },
+		{
+            "name": "weapon_specialcarbine_mk2",
+            "sanitized_name": "Special Carbine Mk II",
+            "price": 30000
+        },
+		{
+            "name": "weapon_combatmg_mk2",
+            "sanitized_name": "Combat MG Mk II",
+            "price": 1050000
+        },
+		{
+            "name": "weapon_rpg",
+            "sanitized_name": "RPG",
+            "price": 750000
+        },
+		{
+            "name": "weapon_hominglauncher",
+            "sanitized_name": "Homing Launcher",
+            "price": 1700000
+        },
+		{
+            "name": "weapon_musket",
+            "sanitized_name": "Mousquet",
+            "price": 850000
+        },
+		{
+            "name": "buzzard2",
+            "sanitized_name": "Buzzard",
+            "price": 100000
+        },
+		{
+            "name": "scarab",
+            "sanitized_name": "Scarab",
+            "price": 700000
+        },
+		{
+            "name": "thruster",
+            "sanitized_name": "Thruster",
+            "price": 500000
+        },
+		{
+            "name": "monster4",
+            "sanitized_name": "Future Shock Sasquatch",
+            "price": 100000
+        },
+		{
+            "name": "zr380",
+            "sanitized_name": "ZR380",
+            "price": 200000
+        },
+		{
+            "name": "nightshark",
+            "sanitized_name": "NightShark",
+            "price": 750000
+        }
+    ],
+    "interval": 2000,
+    "webhook_link": "https://discord.com/api/webhooks/816055902783668224/wo8aNEDSN8vP40U-VRBIx_PS6foTyHwvs_dFIC_ZjaUQSGnc8MQKxNtsnD6t9xcxuBgV"
+}
