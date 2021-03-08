@@ -1,1 +1,1 @@
-web node market_sniper.js
+worker: node market_sniper

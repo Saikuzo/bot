@@ -1,8 +1,16 @@
 {
-    "name": "sniping",
-    "author": "Alex",
+    "name": "sabd",
+    "version": "0.0.1",
+    "description": "Bot Nation",
+    "main": "index.js",
+    "dependencies": {
+      "discord.js": "^11.4.2",
+      "axios": "^0.21.1"
+    },
+    "devDependencies": {},
     "scripts": {
-        "start": "node market_sniper.js"
-
-    }
-}
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sertinox",
+    "license": "ISC"
+  }
