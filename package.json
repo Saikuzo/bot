@@ -4,7 +4,7 @@
     "description": "Bot Nation",
     "main": "index.js",
     "dependencies": {
-      "discord.js": "^11.4.2",
+      "discord.js": "^12.5.1",
       "axios": "^0.21.1"
     },
     "devDependencies": {},
